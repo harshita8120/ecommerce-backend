@@ -1,4 +1,7 @@
-## Intro to the Project
+##Ecommerce Backend
+This is the backend code for Ecommerce-project (https://github.com/harshita8120/ecommerce-project).
+
+<!--## Intro to the Project
 This is the backend for the [ecommerce-project](https://github.com/SuperSimpleDev/ecommerce-project).
 - 95% of the code was generated with AI.
 
@@ -14,4 +17,4 @@ This is the backend for the [ecommerce-project](https://github.com/SuperSimpleDe
 6. In the Terminal, run `npm install`, and run `npm run dev`.
 
 ## Troubleshooting
-If you run into issues, see the [troubleshooting steps](troubleshooting.md).
+If you run into issues, see the [troubleshooting steps](troubleshooting.md).-->
